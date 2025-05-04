@@ -43,7 +43,7 @@
 <h3 align="center"> <b>©'⚡ Tech Qugi. I live in India, where I build the future.</b></h3>
 
 
-<p align="center">I am a self-driven, career-oriented software developer specializing in front-end development and open-source, currently pursuing a bachelors degree in computer science. My expertise lies in building interactive web applications on the client side. Primarily working with technologies like JavaScript, Next.js, TypeScript and Python.<br><br>I strongly believe in continuous learning and improving myself, so I try my best to learn in any situation possible, unfavorable or not.<br><br>In addition to my front-end development skills, I'm also a skilled content creator and graphic designer. I have experience writing blog posts, articles, and social media content. I'm also proficient in using Adobe Photoshop and Illustrator to create graphics and logos.<br><br>I'm currently looking for opportunities to use my skills to make a positive impact on the world. I'm interested in working on projects that are related to education, social justice, and environmental sustainability.</p>
+<p align="center">I am a self-driven, career-oriented software developer specializing in front-end development and open-source, currently pursuing a bachelors degree in computer science. My expertise lies in building interactive web applications on the client side. Primarily working with technologies like HTML CSS JavaScript, Next.js, TypeScript and Python.<br><br>I strongly believe in continuous learning and improving myself, so I try my best to learn in any situation possible, unfavorable or not.<br><br>In addition to my front-end development skills, I'm also a skilled content creator and graphic designer. I have experience writing blog posts, articles, and social media content. I'm also proficient in using Adobe Photoshop and Illustrator to create graphics and logos.<br><br>I'm currently looking for opportunities to use my skills to make a positive impact on the world. I'm interested in working on projects that are related to education, social justice, and environmental sustainability.</p>
 
 ###
 
@@ -163,9 +163,9 @@
 <div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/@SaddamTechs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Md Saddam" height="30" width="40" /></a>
-<a href="https://instagram.com/saddamskst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Md Saddam" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saddamskst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md Saddam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Tech Qugi" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tech Qugi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tech Qugi" height="30" width="40" /></a>
 
 </p>
 
